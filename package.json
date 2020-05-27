@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "chalk": "2.0.0",
-    "semantic-release-github": "4.0.0",
+    "semantic-release-github": "5.0.1",
     "semantic-release-gitlab-docker": "0.0.0-development"
   },
   "renovate": {}
